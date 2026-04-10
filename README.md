@@ -1,6 +1,6 @@
 # AasraX
 
-## Modules
+## Modules (COmpanionship & Help)
 
 ### Accessibility & UI (Mok)
 
@@ -8,7 +8,7 @@
 
 - Multi‑language profiles (English, Hindi, Marathi)
 
-### Request (Ary + Dev)
+### Request (Vid + Dev)
 
 - Create help request (type, description, schedule)
 
@@ -20,7 +20,7 @@
 
 - Pre‑scheduled requests (doctor visits, weddings, regular errands)
 
-###  Safety & Security Module (Vid)
+###  Safety & Security Module (Ary)
 
 - SOS emergency button (floating, one‑tap)
 
@@ -28,7 +28,7 @@
 
 - Senior registration (age, income, health conditions) & Verified student volunteers (skills, documents, background verification by in‑person visit)
 
-## Payments & Incentives Module (Mou)
+### Payments & Incentives Module (Mou)
 
 - Monthly subscription + 1 free session
 
