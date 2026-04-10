@@ -4,7 +4,7 @@
 
 ### Accessibility & UI (Mok)
 
-- High Contrast, Big Fonts,
+- High Contrast, Big Fonts, Read Aloud Mode
 
 - Multi‑language profiles (English, Hindi, Marathi)
 
